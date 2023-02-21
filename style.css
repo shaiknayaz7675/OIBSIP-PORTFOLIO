@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.portfolio-logo {
+    border-width: 2px;
+    border-color: #4b6cc1;
+    border-style: solid;
+    padding: 5px;
+}
+
+#nav-1 {
+    color: #ffffff;
+}
+
+#nav-2 {
+    color: #ffffff;
+}
+
+#nav-3 {
+    color: #ffffff;
+}
+
+#nav-4 {
+    color: #ffffff;
+}
+
+#nav-5 {
+    color: #ffffff;
+}
+
+#icon-sty {
+    color: #ffffff;
+}
+
+.bg-container-portfolio {
+    background-color: #191a1d;
+}
+
+.juber-image {
+    height: 30vh;
+}
+
+.juber-coloring {
+    color: #4b6cc1;
+    font-size: 20px;
+}
+
+.hey-heading {
+    color: #ffffff;
+    font-size: 20px;
+
+}
+
+.iam-para {
+    font-size: 15px;
+    color: #9aa5b1;
+}
+
+.portfolio-website-aboutme-facts-container {
+    background-color: #323f4b;
+
+}
+
+.facts-heading {
+    color: #cced00;
+    font-size: 25px;
+}
+
+.About-me {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.aboutme-image {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.aboutme-para {
+    color: #9aa5b1;
+    font-weight: 500;
+}
+
+.portfolio-website-aboutme-skills-container {
+    background-color: #1f2933;
+
+}
+
+.skills-heading {
+    color: #cced00;
+    font-size: 25px;
+}
+
+.skills-cards {
+
+    background-color: #323f4b;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.card-images {
+    height: 64px;
+    width: 64px;
+}
+
+.card-headings {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.Portfolio-Website-Projects-Section-container {
+    background-color: #3e4c59;
+
+}
+
+.portfolio-heading {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.projects-ihavdne-heading {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.projects-have-done-card-container {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.projects-image-card {
+    width: 100%;
+}
+
+.projects-card-para {
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
+
+.projects-card-heading {
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.projects-card-para-2 {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.hyperlink-for-readmore {
+    color: #cced00;
+    font-weight: bold;
+}
+
+.Portfolio-Website-Services-Section-bg-container {
+    background-color: #52606d;
+
+}
+
+.services-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.what-ido-heading {
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.services-container-card {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.services-image {
+    height: 40px;
+}
+
+.staticwebsite-heading {
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 25px;
+
+}
+
+.staticwebsite-para {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.Portfolio-Website-Work-Done-Section {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+}
+
+.hr-line {
+    background-color: #ffffff;
+    width: 60px;
+}
+
+.icon-workdone {
+    font-size: 50px;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.workdone-heading {
+    color: #ffffff;
+}
+
+.workdone-para {
+    color: #ffffff;
+}
+
+.Portfolio-Website-Testimonials-Section {
+    background-color: #1f2933;
+
+}
+
+.testimonila-para {
+    color: #cced00;
+}
+
+.testimonials-heading {
+    color: #ffffff;
+}
+
+.image-testimoni {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+
+}
+
+.carsel-para {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.carosel-heading {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.carosel-bg-container {
+    background-color: #323f4b;
+
+}
+
+.Portfolio-Website-Footer-Section {
+    background-color: #0d2436;
+
+}
+
+.footer-section-image {
+    height: 110px;
+    width: 110px;
+    border-radius: 70px;
+}
+
+.footer-profilename-hedding {
+    color: #cced00;
+    font-size: 25px;
+}
+
+.footer-job-para {
+    color: #9aa5b1;
+}
+
+.phoneno-heading {
+    color: #cced00;
+    font-size: 25px;
+}
+
+.phone-no {
+    color: #9aa5b1;
+    padding: 10px;
+}
+
+.footer-section-bg {
+    background-color: #001c32;
+    color: #9aa5b1;
+}
+
+.footer-section {
+    font-size: 15px;
+}
+
+.adress-icon {
+    color: #9aa5b1;
+}
+
+.my-contact-heading {
+    color: #4034eb;
+    font-weight: bold;
+}
+
+.modal-main-bg-container {
+    background-color: #15111c;
+}
+
+#icon-phone-styl {
+    font-size: 30px;
+    color: yellow;
+}
+
+.modal-bg-main2-container {
+
+    background-image: linear-gradient(to left, #dbcc1f, #8c8b82);
+}
